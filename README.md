@@ -66,23 +66,6 @@
   
   ![](https://github-profile-trophy.vercel.app/?username=Davi-Azevedo-Alcantara&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
   
-</div>
-
-<div align="center">
-  
-  <h2>🎯 Projetos em Destaque</h2>
-  
-  <!-- Exemplo de cards de projeto -->
-  <!-- Adicione conforme necessário -->
-  <!--
-  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://github.com/Davi-Azevedo-Alcantara/seu-projeto">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-Azevedo-Alcantara&repo=seu-projeto&theme=dracula" />
-    </a>
-  </div>
-  -->
-  
-</div>
 
 <div align="center">
   
@@ -130,8 +113,7 @@
   
   <h2>📊 Estatísticas Adicionais</h2>
   
-  <!-- Linguagens mais usadas -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Azevedo-Alcantara&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Azevedo-Alcantara&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -139,6 +121,6 @@
 
 <div align="center">
   
-  © 2025 Davi Azevedo Alcântara
+© 2025 Davi Azevedo Alcântara
   
 </div>
