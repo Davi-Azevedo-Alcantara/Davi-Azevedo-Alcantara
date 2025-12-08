@@ -7,13 +7,7 @@
   ---
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Davi-Azevedo-Alcantara&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Azevedo-Alcantara&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+
 
 <div align="center">
   
