@@ -103,14 +103,6 @@
   
 </div>
 
-<div align="center">
-  
-  <h2>📊 Estatísticas Adicionais</h2>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Azevedo-Alcantara&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
 ---
 
 <div align="center">
