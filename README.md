@@ -1,5 +1,9 @@
-<div align="center">
-  <h1> 👋 Olá, eu sou <a href="https://github.com/Davi-Azevedo-Alcantara">@Davi-Azevedo-Alcantara</a> </h1>
+
+<div align="center">  
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:22D3EE&height=190&section=header&text=Davi%20Azevedo%20Alcântara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="banner"
+  />
   <p> <em>Engenheiro de Software | Desenvolvedor Full-Stack | Entusiasta de Qualidade de Software</em> </p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F8F8F2&size=32&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full-Stack;Especializado+em+TypeScript%2C+React+e+Python;Sempre+aprendendo+novas+tecnologias;)](https://git.io/typing-svg)
@@ -31,9 +35,7 @@
 <div align="center">
   
   <h2>📊 Estatísticas do Perfil</h2>
-  
-  [![GitHub Commits](https://github-readme-commits.vercel.app/api?username=Davi-Azevedo-Alcantara&theme=dracula&hide_border=true)](https://github.com/MarcoAguirre04/github-readme-commits)
-  
+
   [![wakatime](https://wakatime.com/badge/user/e8b01995-c6b5-4c3b-b75b-9bde54b826f7.svg)](https://wakatime.com/@e8b01995-c6b5-4c3b-b75b-9bde54b826f7)
   
 </div>
@@ -58,14 +60,13 @@
   
   <h2>🏆 GitHub Trophies</h2>
   
-  ![](https://github-profile-trophy.vercel.app/?username=Davi-Azevedo-Alcantara&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=Davi-Azevedo-Alcantara&theme=dracula&row=1&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 
 <div align="center">
   
   <h2>🎵 Música Enquanto Trabalho</h2>
   
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/seu-usuario-spotify) <!-- Se tiver integrado -->
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/212xbrplol2pgigcoyczp7fuy)
   
 </div>
 
@@ -73,7 +74,7 @@
   
   <h2>📈 Contribuição Recente</h2>
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Azevedo-Alcantara&theme=dracula&hide_border=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Azevedo-Alcantara&theme=dracula&hide_border=true&bg_color=0D1117&color=4ECDC4&line=FFE066&point=4ECDC4)
   
 </div>
 
@@ -107,6 +108,6 @@
 
 <div align="center">
   
-© 2025 Davi Azevedo Alcântara
+© 2026 Davi Azevedo Alcântara
   
 </div>
